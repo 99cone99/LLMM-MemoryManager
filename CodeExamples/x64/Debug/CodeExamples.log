@@ -1,0 +1,8 @@
+﻿  BaseObject.cpp
+  CodeExamples.cpp
+C:\Users\b019594l.STUDENT\Downloads\CodeExamples\CodeExamples\CodeExamples.cpp(110,55): warning C4291: 'void *BaseObject::operator new(size_t,MemoryTracker *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+C:\Users\b019594l.STUDENT\Downloads\CodeExamples\CodeExamples\BaseObject.h(13,15): message : see declaration of 'BaseObject::operator new'
+  Replacements.cpp
+C:\Users\b019594l.STUDENT\Downloads\CodeExamples\CodeExamples\Replacements.cpp(11,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  CodeExamples.vcxproj -> C:\Users\b019594l.STUDENT\Downloads\CodeExamples\CodeExamples\x64\Debug\CodeExamples.exe
